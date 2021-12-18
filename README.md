@@ -1,2 +1,2 @@
 # Hello-R
-this is my first R programing course
+this is my first repo for R programming course
