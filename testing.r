@@ -5,3 +5,4 @@ name ="yousaf"
 version = "Rstudio - in writing"
 print(name)
 print("these lines have been written in R studio")
+print ("engineer , scientist and an educator")
